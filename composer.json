@@ -1,0 +1,12 @@
+{
+    "name": "buddhika/detectlang",
+    "description": "Detect the language name by the given string",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DetectLang\\": "src/"
+        }
+    },
+    "require": {}
+}
